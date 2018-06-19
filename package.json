@@ -1,0 +1,9 @@
+{
+  "name": "@apicase/nuxt",
+  "version": "0.1.0",
+  "description": "Nuxt plugin for Apicase",
+  "main": "index.js",
+  "repository": "git@github.com:apicase/nuxt.git",
+  "author": "Anton Kosykh <kelin2025@yandex.ru>",
+  "license": "MIT"
+}
