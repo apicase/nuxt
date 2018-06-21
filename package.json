@@ -1,6 +1,6 @@
 {
   "name": "@apicase/nuxt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Nuxt plugin for Apicase",
   "main": "index.js",
   "repository": "git@github.com:apicase/nuxt.git",
