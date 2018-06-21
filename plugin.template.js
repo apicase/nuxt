@@ -55,7 +55,7 @@ export default (ctx, inject) => {
       : service
   <% } %>
 
-  <% if (options.mode === 'single') %>
+  <% if (options.mode === 'single') { %>
   const apiWithMeta = createServiceWrapper(api)
   <% } %>
 
